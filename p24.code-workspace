@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../terraform-provider-aws-main/examples/eks-getting-started/083/example-4"
+		},
+		{
+			"path": "../../online-shop-microservices-deployment-helm-file"
+		}
+	]
+}
